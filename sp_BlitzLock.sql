@@ -76,7 +76,7 @@ END;
 	the findings, contribute your own code, and more.
 
 	Known limitations of this version:
-	 - Only SQL Server 2012 and newer is supported
+	 - Only SQL Server 2012 and newer are supported
 	 - If your tables have weird characters in them (https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references) you may get errors trying to parse the XML.
 	   I took a long look at this one, and:
 		1) Trying to account for all the weird places these could crop up is a losing effort. 
